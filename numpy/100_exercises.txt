@@ -1,0 +1,103 @@
+Certainly! Here's a list of 100 NumPy examples covering various operations and functionalities for you to practice:
+
+Create an array of zeros of shape (3, 3).
+Create an array of ones of shape (2, 4).
+Create an array with values ranging from 0 to 9.
+Create a 3x3 identity matrix.
+Create a 2x2 diagonal matrix with diagonal elements as 1, 2.
+Create a random 3x3 matrix.
+Create an array of evenly spaced values between 1 and 10 with a step of 2.
+Create a 5x5 matrix with random values and find the maximum and minimum values.
+Reshape a 1D array of 12 elements into a 3x4 array.
+Flatten a 2D array into a 1D array.
+Transpose a matrix.
+Perform element-wise addition of two matrices.
+Perform element-wise multiplication of two matrices.
+Perform matrix multiplication.
+Find the mean value of an array.
+Find the standard deviation of an array.
+Find the sum of all elements in an array.
+Find the row-wise sum of a matrix.
+Find the column-wise sum of a matrix.
+Find the index of the maximum element in an array.
+Find the index of the minimum element in an array.
+Slice a 1D array from index 2 to index 5.
+Slice a 2D array to get the second row.
+Slice a 2D array to get the third column.
+Concatenate two arrays vertically.
+Concatenate two arrays horizontally.
+Stack two arrays vertically.
+Stack two arrays horizontally.
+Split an array into three equal-sized sub-arrays.
+Find the unique elements in an array.
+Count the occurrence of each unique element in an array.
+Find the maximum value along a specific axis of a matrix.
+Find the minimum value along a specific axis of a matrix.
+Round elements of an array to the nearest integer.
+Convert degrees to radians for all elements of an array.
+Sort elements of an array in ascending order.
+Sort elements of an array in descending order.
+Find the index locations of sorted elements of an array.
+Replace all even numbers in an array with -1.
+Create a 5x5 matrix with values 1, 2, 3, 4 just below the diagonal.
+Compute the dot product of two arrays.
+Compute the cross product of two arrays.
+Compute the inner product of two arrays.
+Compute the outer product of two arrays.
+Compute the eigenvalues and eigenvectors of a matrix.
+Calculate the determinant of a matrix.
+Calculate the inverse of a matrix.
+Calculate the trace of a matrix.
+Calculate the exponent of each element in an array.
+Calculate the natural logarithm of each element in an array.
+Calculate the square root of each element in an array.
+Check if any elements in an array are NaN.
+Replace all NaN values in an array with 0.
+Perform element-wise comparison of two arrays.
+Check if all elements in an array are true.
+Check if any element in an array is true.
+Compute the cumulative sum of elements in an array.
+Compute the cumulative product of elements in an array.
+Find the index of the first occurrence of a value in an array.
+Create an array of random integers within a specific range.
+Pad an array with zeros along a specific axis.
+Find the 1D linear interpolation of an array.
+Perform element-wise exponentiation of two arrays.
+Perform element-wise multiplication of an array with a scalar.
+Perform element-wise addition of an array with a scalar.
+Perform element-wise subtraction of an array with a scalar.
+Perform element-wise division of an array by a scalar.
+Compute the absolute values of elements in an array.
+Clip elements of an array within a specific range.
+Find the index of the maximum value within a specific range of an array.
+Find the index of the minimum value within a specific range of an array.
+Compute the cumulative maximum of elements in an array.
+Compute the cumulative minimum of elements in an array.
+Compute the median of elements in an array.
+Compute the mode of elements in an array.
+Compute the percentile of elements in an array.
+Create a masked array where elements satisfy a condition.
+Find the sum of elements in an array within a specific range.
+Find the mean of elements in an array within a specific range.
+Reshape an array with a specified new shape and fill missing values.
+Create a rolling window view of elements in an array.
+Compute the exponential moving average of elements in an array.
+Find the indices that would sort an array.
+Compute the histogram of an array.
+Compute the bin counts for a set of bins.
+Compute the mean squared error between two arrays.
+Compute the Pearson correlation coefficient between two arrays.
+Compute the Spearman rank-order correlation coefficient between two arrays.
+Compute the covariance matrix of two arrays.
+Compute the cosine similarity between two arrays.
+Compute the Euclidean distance between two arrays.
+Compute the Manhattan distance between two arrays.
+Compute the Hamming distance between two arrays.
+Compute the Jaccard similarity between two arrays.
+Compute the Mahalanobis distance between two arrays.
+Compute the Wasserstein distance between two arrays.
+Compute the Frobenius norm of a matrix.
+Compute the L1 norm of a matrix.
+Compute the L2 norm of a matrix.
+Compute the rank of a matrix.
+Feel free to practice these examples and experiment with variations to deepen your understanding of NumPy. If you have any questions or need further clarification on any of these examples, feel free to ask!
