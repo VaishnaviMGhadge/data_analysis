@@ -1,0 +1,22 @@
+id\tlocation_id\taddress_1\taddress_2\tcity\tstate_province\tpostal_code\tcountry
+1\t1\t2600 Middlefield Road\t\tRedwood City\tCA\t94063\tUS
+2\t2\t24 Second Avenue\t\tSan Mateo\tCA\t94401\tUS
+3\t3\t24 Second Avenue\t\tSan Mateo\tCA\t94403\tUS
+4\t4\t24 Second Avenue\t\tSan Mateo\tCA\t94401\tUS
+5\t5\t24 Second Avenue\t\tSan Mateo\tCA\t94401\tUS
+6\t6\t800 Middle Avenue\t\tMenlo Park\tCA\t94025-9881\tUS
+7\t7\t500 Arbor Road\t\tMenlo Park\tCA\t94025\tUS
+8\t8\t800 Middle Avenue\t\tMenlo Park\tCA\t94025-9881\tUS
+9\t9\t2510 Middlefield Road\t\tRedwood City\tCA\t94063\tUS
+10\t10\t1044 Middlefield Road\t\tRedwood City\tCA\t94063\tUS
+11\t11\t2140 Euclid Avenue.\t\tRedwood City\tCA\t94061\tUS
+12\t12\t1044 Middlefield Road\t2nd Floor\tRedwood City\tCA\t94063\tUS
+13\t13\t399 Marine Parkway.\t\tRedwood City\tCA\t94065\tUS
+14\t14\t660 Veterans Blvd.\t\tRedwood City\tCA\t94063\tUS
+15\t15\t1500 Valencia Street\t\tSan Francisco\tCA\t94110\tUS
+16\t16\t1161 South Bernardo\t\tSunnyvale\tCA\t94087\tUS
+17\t17\t409 South Spruce Avenue\t\tSouth San Francisco\tCA\t94080\tUS
+18\t18\t114 Fifth Avenue\t\tRedwood City\tCA\t94063\tUS
+19\t19\t19 West 39th Avenue\t\tSan Mateo\tCA\t94403\tUS
+20\t21\t123 El Camino Real\t\tBelmont\tCA\t94002\tUS
+21\t22\t2013 Avenue of the fellows\tSuite 100\tSan Francisco\tCA\t94103\tUS
