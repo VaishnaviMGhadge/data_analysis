@@ -1,0 +1,76 @@
+Sure, here are 100 statistics problems ranging from easy to advanced levels for practice:
+
+### Easy Level:
+
+1. Calculate the mean, median, and mode of the following dataset: [2, 4, 6, 8, 10].
+2. Find the range of the dataset: [10, 15, 20, 25, 30].
+3. Compute the standard deviation of the dataset: [5, 10, 15, 20, 25].
+4. Determine the probability of rolling a 3 on a fair six-sided die.
+5. If a bag contains 6 red balls and 4 blue balls, what is the probability of drawing a red ball?
+6. A class consists of 25 students, with 15 females and 10 males. If a student is selected at random, what is the probability that the student is female?
+7. Calculate the z-score for an observation of 80 from a dataset with a mean of 75 and a standard deviation of 10.
+8. If a dataset has a normal distribution with a mean of 100 and a standard deviation of 20, what percentage of the data falls between 80 and 120?
+9. Given a dataset with a normal distribution, if the mean is 60 and the standard deviation is 10, what is the value of the 80th percentile?
+10. Compute the Chi-square statistic for the following contingency table:
+
+    |            | Group A | Group B |
+    |------------|---------|---------|
+    | Category 1 |    20   |    15   |
+    | Category 2 |    10   |    25   |
+
+### Medium Level:
+
+11. Calculate the variance of the dataset: [5, 7, 9, 11, 13].
+12. Find the interquartile range (IQR) of the dataset: [15, 20, 25, 30, 35, 40].
+13. Compute the correlation coefficient between two variables from the following data:
+
+    X: [3, 6, 9, 12, 15]
+    Y: [5, 10, 15, 20, 25]
+
+14. Determine the probability of flipping a fair coin and getting exactly two heads in three flips.
+15. A standard deck of cards contains 52 cards. What is the probability of drawing a red card or a face card?
+16. A survey of 150 people found that 90 of them prefer brand A, 40 prefer brand B, and the remaining prefer brand C. What is the probability that a randomly selected person prefers brand C?
+17. In a group of 50 students, 30 study Math and 25 study English. If 15 students study both subjects, what is the probability that a randomly selected student studies either Math or English?
+18. Conduct a hypothesis test to determine if there is a significant difference in means between two groups with the following data:
+
+    Group A: [12, 14, 16, 18, 20]
+    Group B: [15, 16, 17, 18, 19]
+
+19. Perform a one-sample t-test to determine if the mean of a dataset is significantly different from a specified value. Given data: [20, 25, 30, 35, 40, 45], test if the mean is significantly different from 35.
+20. Conduct a paired t-test to determine if there is a significant difference in scores before and after an intervention. Before scores: [18, 20, 22, 24, 26], After scores: [22, 24, 26, 28, 30].
+
+### Advanced Level:
+
+21. Use the Mann-Whitney U test to compare the median of two independent samples:
+
+    Sample A: [12, 14, 16, 18, 20]
+    Sample B: [14, 15, 16, 17, 18]
+
+22. Perform an ANOVA test to determine if there is a significant difference in means among multiple groups with the following data:
+
+    Group 1: [10, 12, 14, 16, 18]
+    Group 2: [13, 14, 15, 16, 17]
+    Group 3: [9, 11, 13, 15, 17]
+
+23. Fit a simple linear regression model to the following data and predict the value of Y when X = 8:
+
+    X: [1, 2, 3, 4, 5]
+    Y: [3, 5, 7, 9, 11]
+
+24. Fit a logistic regression model to predict the probability of a binary outcome based on a set of predictor variables.
+25. Perform k-means clustering on a dataset to identify distinct groups or clusters.
+26. Use principal component analysis (PCA) to reduce the dimensionality of a dataset.
+27. Implement cross-validation to evaluate the performance of a machine learning model.
+28. Use the bootstrap method to estimate the confidence interval of a statistic.
+29. Apply the EM algorithm to estimate parameters of a mixture model.
+30. Calculate the AUC-ROC score to evaluate the performance of a binary classification model.
+31. Use the F1 score to evaluate the performance of a classification model.
+32. Implement a decision tree algorithm to classify data into categories.
+33. Use the random forest algorithm for classification or regression tasks.
+34. Apply gradient boosting to improve the performance of a predictive model.
+35. Perform hyperparameter tuning using grid search or random search.
+36. Evaluate the performance of a classification model using precision, recall, and F1 score.
+37. Fit a support vector machine (SVM) model to classify data into different classes.
+38. Use the Naive Bayes algorithm for classification tasks.
+39. Apply regularization techniques such as L1 and L2 regularization to prevent overfitting in a predictive model.
+40. Use the Area Under the Precision-Recall Curve (AUC-PR) to evaluate the performance of a classification model.
